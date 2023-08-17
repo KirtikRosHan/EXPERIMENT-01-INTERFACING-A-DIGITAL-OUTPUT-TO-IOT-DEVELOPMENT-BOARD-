@@ -167,9 +167,10 @@ void assert_failed(uint8_t *file, uint32_t line)
 #endif
 ```
 ## Output  :
- 
- ![image](https://github.com/KirtikRosHan/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/142528873/0c79e2e8-1559-4de2-be3f-96c84004692b)
 
+ ![image](https://github.com/KirtikRosHan/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/142528873/ee85964a-a4db-4d0d-b171-fa6b6b2ed348)
+
+![image](https://github.com/KirtikRosHan/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/142528873/964d286c-737c-4470-ae8b-00e20ab54f98)
  
  
 ## Result :
